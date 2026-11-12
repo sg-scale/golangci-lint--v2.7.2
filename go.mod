@@ -1,6 +1,6 @@
 module github.com/golangci/golangci-lint/v2
 
-go 1.24.0
+go 1.25
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
@@ -97,7 +97,7 @@ require (
 	github.com/polyfloyd/go-errorlint v1.8.0
 	github.com/quasilyte/go-ruleguard/dsl v0.3.23
 	github.com/raeperd/recvcheck v0.2.0
-	github.com/rogpeppe/go-internal v1.14.1
+	github.com/rogpeppe/go-internal v1.16.0
 	github.com/ryancurrah/gomodguard v1.4.1
 	github.com/ryanrolds/sqlclosecheck v0.5.1
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
